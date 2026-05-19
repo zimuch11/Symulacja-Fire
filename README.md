@@ -1,1 +1,1 @@
-# Symulacji-Fire
+# Symulacja-Fire
