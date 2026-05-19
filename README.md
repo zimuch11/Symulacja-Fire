@@ -1,1 +1,1 @@
-# Diagram-klas-i-obiekt-w-symulacji-Fire
+# Symulacji-Fire
